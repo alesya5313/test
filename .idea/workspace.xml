@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a97b7e8-f2d6-43bd-81c6-820ca8c62f60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/installgithub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/installgithub.txt" afterDir="false" />
-    </list>
+    <list default="true" id="2a97b7e8-f2d6-43bd-81c6-820ca8c62f60" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="installgithub.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/installgithub.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -120,7 +118,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1356000" />
+    <option name="totallyTimeSpent" value="1682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="56" width="1400" height="772" extended-state="0" />
@@ -198,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/installgithub.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
